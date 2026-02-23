@@ -331,9 +331,19 @@ See [DEMO_SCRIPT.md](DEMO_SCRIPT.md) for the 2-minute demo script.
 ### Architecture Diagram
 See the ASCII diagram above or `architecture.png` for detailed architecture.
 
+### 🚀 Quick Deploy
+
+**Deploy in 5 minutes:** See [QUICKDEPLOY.md](QUICKDEPLOY.md)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/shieldagent)
+
+**Or use:** [Render.com](https://render.com) | [Railway.app](https://railway.app) | [Azure](./DEPLOYMENT.md)
+
 ### Live Demo
-- **Frontend**: https://shieldagent.azurewebsites.net
-- **API**: https://shieldagent-func-prod.azurewebsites.net/api
+- **Status**: Ready for deployment
+- **Build**: ✅ Complete (backend + frontend)
+- **Tests**: ✅ Passed (all 3 agents functional)
+- **Deploy**: See [QUICKDEPLOY.md](QUICKDEPLOY.md) or [DEPLOYMENT.md](DEPLOYMENT.md)
 
 ### Team
 - **Project**: ShieldAgent
